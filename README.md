@@ -13,60 +13,12 @@ In this project, we use pretrained [GoogleNews-vectors-negative300.bin.gz](https
 ### Prerequisities
 
 Required softwares:
-    [neon 1.5.4+485033c](http://neon.nervanasys.com/docs/latest/installation.html)
-    CUDA 7.5
-
 ```
-Give examples
+[neon 1.5.4+485033c](http://neon.nervanasys.com/docs/latest/installation.html)
+CUDA 7.5
 ```
 
-### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Stay what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* Dropwizard - Bla bla bla
-* Maven - Maybe
-* Atom - ergaerga
 
 ## Contributing
 
