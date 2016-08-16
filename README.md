@@ -16,11 +16,9 @@ Required softwares:
 CUDA 7.5
 ```
 
-
-
 ## Authors
 
-* **Tianxiang Chen (ORNL Research Assistant)** *- [Linked](https://www.linkedin.com/in/tianxiang-chen-946543114?trk=nav_responsive_tab_profile)
+* **Tianxiang Chen (ORNL Research Assistant)** - [Linkedin HomePage](https://www.linkedin.com/in/tianxiang-chen-946543114?trk=nav_responsive_tab_profile)
 
 
 ## Acknowledgments
