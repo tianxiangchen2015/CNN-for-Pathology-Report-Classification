@@ -23,7 +23,5 @@ CUDA 7.5
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* **Yoon Kim** - [Github](https://github.com/yoonkim/CNN_sentence)
     
