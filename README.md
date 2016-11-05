@@ -16,11 +16,10 @@ Required softwares:
 CUDA 7.5
 ```
 ### Result
-https://github.com/tianxiangchen2015/CNN-for-Pathology-Report-Classification/blob/master/cm_pathology.png
 
-Macro=0.175676848187
-Micro=0.479207920792
-
+* Macro=0.175676848187
+* Micro=0.479207920792
+```
                precision    recall  f1-score   support
 
           0       0.00      0.00      0.00        30
@@ -37,6 +36,9 @@ Micro=0.479207920792
          11       0.52      0.93      0.66       300
 
 avg / total       0.37      0.48      0.40      1010
+```
+
+![alt tag](https://github.com/tianxiangchen2015/CNN-for-Pathology-Report-Classification/blob/master/cm_pathology.png)
 
 ## Authors
 
